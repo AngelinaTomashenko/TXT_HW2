@@ -1,20 +1,20 @@
 
-Type	        Defect Report
-ID	        2
+Type	          Defect Report
+ID	            2
 Priority        High
-Severity	High 
-Created at	15.12.2021
+Severity	      High 
+Created at	    15.12.2021
 Affects Sprint	1
-Reporter	Anhelina Tomashenko 
+Reporter	      Anhelina Tomashenko 
 Fixed at	
 Status	        Opened 
 
 Summary	        Quantity of product at the page «оформить заказ» is incorrect. 
-Environment 	Prod.
+Environment 	  Prod.
 Reproducibility	Always 
-Precondition 	Google Chrome is opened at Computer Desktop 
+Precondition 	  Google Chrome is opened at Computer Desktop 
 
-Description: Despite of User has chosen two quantity of selected product, at the page «оформить заказ» is one unit of the product. User angelinatomashenko@gmail.com, password 1234 
+Description: Despite of User has chosen two quantity of selected product, at the page «оформить заказ» is one unit of the product. User angelinatomashenko@gmail.com, password 12345 
 
 Steps to reproduce: 
 1.	Open makeup.com.ua 
