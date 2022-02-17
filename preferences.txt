@@ -1,0 +1,5 @@
+favourite film: "eat pray love"
+favourite serial: "the queen's gambit"
+favourite food: seafood
+favourite season: every season has its charm
+country to visit: New Zealand
