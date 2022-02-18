@@ -24,7 +24,7 @@
 11. Создать файл skills.json добавить информацию о скиллах которые будут изучены на курсе в формате TXT
 * touch skills.txt -> nano skills.txt [https://github.com/AngelinaTomashenko/TXT_HW2/blob/371ab665fe0cccc8a784c2b3b511e0c081071d2a/skills.txt]
 12. Сделать коммит в одну строку
-* git add . | git commit -am "add files"
+* git add .; git commit -m "add files"
 13. Отправить сразу 2 файла на внешний репозиторий
 * git push
 14. На веб интерфейсе создать файл bug_report.txt.
